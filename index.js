@@ -9,7 +9,7 @@ app.post("/esp32", (req, res) => {
 });
 
 app.get("/", (req, res) => {
-  res.send("Node.js server is running OK");
+  res.send("Node.js server is running OK, fucking cool project oh yeahhhhhhhhh!!!!!");
 });
 
 app.listen(3000, () => {
